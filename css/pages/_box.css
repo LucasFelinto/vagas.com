@@ -1,0 +1,13 @@
+.box {
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+  background-image: url("../../img/header.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position-y: -2px;
+  width: 56rem;
+  margin: 2rem auto 0 auto;
+  border-radius: 8px;
+  box-shadow: 1rem 2rem 2.5rem rgba(0, 0, 0, 0.5);
+}

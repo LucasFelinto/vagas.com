@@ -1,0 +1,12 @@
+:root {
+  /* color */
+  --primary-color: #2f3676;
+  --secondary-color: #191847;
+  --bg-color: #663399;
+  --neutral-color: #ffffff;
+  --dark-color: #000000;
+
+  /* spacing */
+  --small-spacing: 1.5rem;
+  --big-spacing: 3.2rem;
+}

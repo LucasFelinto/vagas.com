@@ -1,0 +1,20 @@
+.btn {
+  height: 4.2rem;
+  width: 4.2rem;
+  border: none;
+  background: var(--primary-color);
+  border-radius: 4px;
+}
+
+.btn:hover {
+  background-color: var(--secondary-color);
+}
+
+.btn--mine::before {
+  content: "";
+  display: block;
+  width: 60%;
+  margin: 0 auto;
+  height: 6px;
+  background: var(--neutral-color);
+}

@@ -1,0 +1,7 @@
+.u-margin-bottom-small {
+  margin-bottom: var(--small-spacing);
+}
+
+.u-margin-bottom-big {
+  margin-bottom: var(--big-spacing);
+}
